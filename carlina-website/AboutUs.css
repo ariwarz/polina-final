@@ -1,0 +1,40 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  padding: 1px; 
+  text-align: center; 
+  background: #8593AE; 
+  color:#E2E8E4 ; 
+}
+
+
+.header h1 {
+    font:140px/0.0 'Cinzel', serif;
+  color: #DDA288;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.5); 
+}
+.header p {
+     font: 30px/0 'Parisienne', cursive;
+    color: #7E675E
+     
+}
+body {
+  font-family: Arial, Helvetica, serif;
+}
+.bar {
+  overflow: hidden;
+  background-color: #5A4E4D;
+}
+.bar a {
+  float: left;
+  display: block;
+  color:#E2E8E4 ;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+    
